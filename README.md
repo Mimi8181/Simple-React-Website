@@ -64,7 +64,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Website Link
 
 Link: https://Mimi8181.github.io/Simple-React-Website
-some features are not working when uploaded on github.io
+
+Some features are not working when uploaded on github.io
 
 ### Deployment
 
