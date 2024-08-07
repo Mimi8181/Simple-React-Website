@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Simple-React-Website/static/css/main.047235f2.css",
+    "main.js": "/Simple-React-Website/static/js/main.352db2e1.js",
+    "static/media/img-2.jpg": "/Simple-React-Website/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/Simple-React-Website/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/Simple-React-Website/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/Simple-React-Website/index.html",
+    "main.047235f2.css.map": "/Simple-React-Website/static/css/main.047235f2.css.map",
+    "main.352db2e1.js.map": "/Simple-React-Website/static/js/main.352db2e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.047235f2.css",
+    "static/js/main.352db2e1.js"
+  ]
+}
